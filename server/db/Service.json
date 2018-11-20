@@ -10,8 +10,8 @@
 
 	{
    	"idService" : 2,  
-  	"titre": " Cherche Bricolage - Petits travaux ", 
-  	"descriptif": "Bonjour, ayant acheté deux fenêtres et deux portes fenêtres, je souhaite les faire placées.", 
+  	"titre": " Bricolage - Petits travaux ", 
+  	"descriptif": "Bonjour, Je propose mes service de Bricolage .", 
   	"lienPhoto":"travaux.png",
 	"prix":100, 
 	"email" : "thao.thao@gmail.com"

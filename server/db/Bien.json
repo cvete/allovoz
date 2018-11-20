@@ -8,7 +8,7 @@
 	"email" : "maceski.cvete@gmail.com"
 	},
 
-<<<<<<< HEAD
+
 	{
    	"idBien" : 2,  
   	"titre": " Louer machine a laver  ", 
@@ -28,7 +28,6 @@
 	}
 
  	
-=======
  	{
  	"email": "thao.thao@gmail.com", 
  	"password":"123456", 
@@ -39,5 +38,4 @@
  	"adresse":"72 rue Albert 1er", 
  	"tel":"0707070707"
  	}
->>>>>>> ac0bb4171d45d02ee13119aba2fb1a4b4b19764b
 ]
