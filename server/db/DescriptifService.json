@@ -9,10 +9,16 @@
 
 {
 	"idService": 2,
-	"motClef" :["bricolage","travaux", "", "pc"]
+	"motClef" :["bricolage","travaux",  "pc"]
+
+},
+
+{
+
+	"idService": 3,
+	"motClef" :["reparation","voiture", "peugeot" , "306"]
+
 
 }
-
-
 
 ]
