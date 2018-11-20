@@ -1,9 +1,9 @@
 
 echo "Inserting.. Membres"
-mongoimport --db dbsite --collection Membres --file Membres.json --jsonArray
-mongoimport --db dbsite --collection Bien --file Bien.json --jsonArray
-mongoimport --db dbsite --collection Service --file Service.json --jsonArray
-mongoimport --db dbsite --collection Utilisation --file Utilisation.json --jsonArray
-mongoimport --db dbsite --collection Disponibilites --file Disponibilites.json --jsonArray
-mongoimport --db dbsite --collection DescriptifBiens --file DescriptifBiens.json --jsonArray
-mongoimport --db dbsite --collection DescriptifService --file DescriptifService.json --jsonArray
+mongoimport --db dbsite --collection Membres --drop --file Membres.json --jsonArray 
+mongoimport --db dbsite --collection Bien --drop --file Bien.json --jsonArray 
+mongoimport --db dbsite --collection Service --drop --file Service.json --jsonArray 
+mongoimport --db dbsite --collection Utilisation --drop --file Utilisation.json --jsonArray
+mongoimport --db dbsite --collection Disponibilites --drop --file Disponibilites.json --jsonArray
+mongoimport --db dbsite --collection DescriptifBiens --drop --file DescriptifBiens.json --jsonArray
+mongoimport --db dbsite --collection DescriptifService --drop --file DescriptifService.json --jsonArray
